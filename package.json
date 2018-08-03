@@ -1,14 +1,14 @@
 {
-  "name": "Buttons",
-  "version": "2.0.0",
+  "name": "Buttons Lite",
+  "version": "1.0.0",
   "description": "A CSS button library built with Sass",
   "author": "Unicorn-UI <updates@unicorn-ui.com>",
   "homepage": "http://unicorn-ui.com/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:alexwolfe/Buttons.git"
+    "url": "git@github.com:unicorn-ui/Buttons-Lite.git"
   },
-  "contributors": "https://github.com/alexwolfe/Buttons/graphs/contributors",
+  "contributors": "https://github.com:unicorn-ui/Buttons-Lite/graphs/contributors",
   "keywords": [
     "Buttons",
     "CSS Buttons",
