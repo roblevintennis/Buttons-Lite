@@ -1,5 +1,5 @@
 {
-  "name": "Buttons Lite",
+  "name": "Buttons-Lite",
   "version": "1.0.0",
   "description": "A CSS button library built with Sass",
   "author": "Unicorn-UI <updates@unicorn-ui.com>",
@@ -17,7 +17,7 @@
   "scripts": {
     "test": "grunt tests --verbose"
   },
-  "license": "Apache License, Version 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/alexwolfe/Buttons/issues"
   },
